@@ -12,4 +12,4 @@ a = 10
 
 tozero(a)
 tozero(20)
-tozero(- 4)
+tozero(-4)
